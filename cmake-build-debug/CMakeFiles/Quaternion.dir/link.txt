@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Quaternion.dir/main.cpp.o CMakeFiles/Quaternion.dir/Quaternion.cpp.o CMakeFiles/Quaternion.dir/Unittest.cpp.o  -o Quaternion 
